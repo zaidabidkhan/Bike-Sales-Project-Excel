@@ -29,11 +29,6 @@ This Excel project includes:
 - Slicers
 - Data Cleaning functions (Remove Duplicates, Filters, Conditional Formatting)
 
-## 📎 Screenshots
-
-![Bike Sales Dashboard](Excel Project Dataset - Excel 5_16_2025 10_07_38 AM.png)
-
-
 ## 📌 How to Use
 
 1. Download and open the Excel file.
