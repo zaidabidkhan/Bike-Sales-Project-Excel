@@ -44,7 +44,7 @@ This project helped reinforce key Excel concepts like:
 
 ## 📬 Contact
 
-For any questions or feedback, feel free to connect with me on [LinkedIn](www.linkedin.com/in/mdzaidabidkhan).
+For any questions or feedback, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mdzaidabidkhan/).
 
 ---
 
