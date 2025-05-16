@@ -31,7 +31,7 @@ This Excel project includes:
 
 ## 📎 Screenshots
 
-![Bike Sales Dashboard](./Excel%20Project%20Dataset%20-%20Excel%205_16_2025%2010_07_38%20AM.png)
+![Bike Sales Dashboard](Excel Project Dataset - Excel 5_16_2025 10_07_38 AM.png)
 
 
 ## 📌 How to Use
